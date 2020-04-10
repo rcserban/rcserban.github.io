@@ -2,19 +2,17 @@
 
 ### Introduction
 
-This is my data science portfolio based on a Minimal Jekyll theme for GitHub Pages [from Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+This is a small summary of my data science portfolio projects.
 
-<img height="15pt" width="15pt" src="images/logo.jpg"/>
+<img height="64pt" width="64pt" src="images/logo.jpg"/>
 
 ### Installation
 
-___
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To create a similar profile, run this tutorial [from Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Profile is created using minimal Jekyll built-in markdown features on Github.com . Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -40,6 +38,4 @@ ___
 
 ### References
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+[1] Developer portfolio template https://github.com/evanca/quick-portfolio
