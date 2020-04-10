@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: R.C. Serban # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data scientist 
   <br><br>
-  Second description 
+  AI / ML / IoT enthousiast based in Amsterdam, The Netherlands. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/radu-serban-a371752/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-modernist
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
