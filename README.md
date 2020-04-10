@@ -1,10 +1,10 @@
-## Developer Portfolio Landing Page Template
+## Data Science Portfolio
 
 ### Introduction
 
 This is my data science portfolio based on a Minimal Jekyll theme for GitHub Pages [from Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 
-<img src="images/logo.jpg?raw=true"/>
+<img height="15pt" width="15pt" src="images/logo.jpg"/>
 
 ### Installation
 
